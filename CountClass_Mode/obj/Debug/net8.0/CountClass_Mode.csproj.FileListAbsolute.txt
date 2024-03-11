@@ -1,0 +1,14 @@
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.AssemblyInfoInputs.cache
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.AssemblyInfo.cs
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/CountClass_Mode/bin/Debug/net8.0/CountClass_Mode
+/root/Design_Patterns/CountClass_Mode/bin/Debug/net8.0/CountClass_Mode.deps.json
+/root/Design_Patterns/CountClass_Mode/bin/Debug/net8.0/CountClass_Mode.runtimeconfig.json
+/root/Design_Patterns/CountClass_Mode/bin/Debug/net8.0/CountClass_Mode.dll
+/root/Design_Patterns/CountClass_Mode/bin/Debug/net8.0/CountClass_Mode.pdb
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.dll
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/refint/CountClass_Mode.dll
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.pdb
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/CountClass_Mode.genruntimeconfig.cache
+/root/Design_Patterns/CountClass_Mode/obj/Debug/net8.0/ref/CountClass_Mode.dll

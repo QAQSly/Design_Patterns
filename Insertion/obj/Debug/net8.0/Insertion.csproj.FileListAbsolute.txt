@@ -1,0 +1,14 @@
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.AssemblyInfoInputs.cache
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.AssemblyInfo.cs
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/Insertion/bin/Debug/net8.0/Insertion
+/root/Design_Patterns/Insertion/bin/Debug/net8.0/Insertion.deps.json
+/root/Design_Patterns/Insertion/bin/Debug/net8.0/Insertion.runtimeconfig.json
+/root/Design_Patterns/Insertion/bin/Debug/net8.0/Insertion.dll
+/root/Design_Patterns/Insertion/bin/Debug/net8.0/Insertion.pdb
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.dll
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/refint/Insertion.dll
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.pdb
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/Insertion.genruntimeconfig.cache
+/root/Design_Patterns/Insertion/obj/Debug/net8.0/ref/Insertion.dll

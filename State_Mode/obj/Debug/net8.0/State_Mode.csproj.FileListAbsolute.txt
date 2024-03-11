@@ -1,0 +1,14 @@
+/root/Design_Patterns/State_Mode/bin/Debug/net8.0/State_Mode
+/root/Design_Patterns/State_Mode/bin/Debug/net8.0/State_Mode.deps.json
+/root/Design_Patterns/State_Mode/bin/Debug/net8.0/State_Mode.runtimeconfig.json
+/root/Design_Patterns/State_Mode/bin/Debug/net8.0/State_Mode.dll
+/root/Design_Patterns/State_Mode/bin/Debug/net8.0/State_Mode.pdb
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.AssemblyInfoInputs.cache
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.AssemblyInfo.cs
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.dll
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/refint/State_Mode.dll
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.pdb
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/State_Mode.genruntimeconfig.cache
+/root/Design_Patterns/State_Mode/obj/Debug/net8.0/ref/State_Mode.dll

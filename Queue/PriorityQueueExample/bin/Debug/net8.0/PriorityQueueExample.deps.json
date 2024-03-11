@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PriorityQueueExample/1.0.0": {
+        "dependencies": {
+          "PriorityQueue": "1.0.0"
+        },
+        "runtime": {
+          "PriorityQueueExample.dll": {}
+        }
+      },
+      "PriorityQueue/1.0.0": {
+        "runtime": {
+          "PriorityQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PriorityQueueExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PriorityQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.AssemblyInfoInputs.cache
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.AssemblyInfo.cs
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/Singleton_Mode/bin/Debug/net8.0/Singleton_Mode
+/root/Design_Patterns/Singleton_Mode/bin/Debug/net8.0/Singleton_Mode.deps.json
+/root/Design_Patterns/Singleton_Mode/bin/Debug/net8.0/Singleton_Mode.runtimeconfig.json
+/root/Design_Patterns/Singleton_Mode/bin/Debug/net8.0/Singleton_Mode.dll
+/root/Design_Patterns/Singleton_Mode/bin/Debug/net8.0/Singleton_Mode.pdb
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.dll
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/refint/Singleton_Mode.dll
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.pdb
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/Singleton_Mode.genruntimeconfig.cache
+/root/Design_Patterns/Singleton_Mode/obj/Debug/net8.0/ref/Singleton_Mode.dll

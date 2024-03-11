@@ -1,0 +1,14 @@
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.AssemblyInfoInputs.cache
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.AssemblyInfo.cs
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/Selection/bin/Debug/net8.0/Selection
+/root/Design_Patterns/Selection/bin/Debug/net8.0/Selection.deps.json
+/root/Design_Patterns/Selection/bin/Debug/net8.0/Selection.runtimeconfig.json
+/root/Design_Patterns/Selection/bin/Debug/net8.0/Selection.dll
+/root/Design_Patterns/Selection/bin/Debug/net8.0/Selection.pdb
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.dll
+/root/Design_Patterns/Selection/obj/Debug/net8.0/refint/Selection.dll
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.pdb
+/root/Design_Patterns/Selection/obj/Debug/net8.0/Selection.genruntimeconfig.cache
+/root/Design_Patterns/Selection/obj/Debug/net8.0/ref/Selection.dll

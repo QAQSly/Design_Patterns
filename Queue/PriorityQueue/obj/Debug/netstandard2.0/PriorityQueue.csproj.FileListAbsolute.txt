@@ -1,0 +1,10 @@
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.csproj.AssemblyReference.cache
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.AssemblyInfoInputs.cache
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.AssemblyInfo.cs
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/Queue/PriorityQueue/bin/Debug/netstandard2.0/PriorityQueue.deps.json
+/root/Design_Patterns/Queue/PriorityQueue/bin/Debug/netstandard2.0/PriorityQueue.dll
+/root/Design_Patterns/Queue/PriorityQueue/bin/Debug/netstandard2.0/PriorityQueue.pdb
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.dll
+/root/Design_Patterns/Queue/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.pdb

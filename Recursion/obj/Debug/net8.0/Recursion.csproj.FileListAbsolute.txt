@@ -1,0 +1,14 @@
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.AssemblyInfoInputs.cache
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.AssemblyInfo.cs
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/Recursion/bin/Debug/net8.0/Recursion
+/root/Design_Patterns/Recursion/bin/Debug/net8.0/Recursion.deps.json
+/root/Design_Patterns/Recursion/bin/Debug/net8.0/Recursion.runtimeconfig.json
+/root/Design_Patterns/Recursion/bin/Debug/net8.0/Recursion.dll
+/root/Design_Patterns/Recursion/bin/Debug/net8.0/Recursion.pdb
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.dll
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/refint/Recursion.dll
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.pdb
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/Recursion.genruntimeconfig.cache
+/root/Design_Patterns/Recursion/obj/Debug/net8.0/ref/Recursion.dll

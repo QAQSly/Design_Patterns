@@ -1,0 +1,14 @@
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.GeneratedMSBuildEditorConfig.editorconfig
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.AssemblyInfoInputs.cache
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.AssemblyInfo.cs
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.csproj.CoreCompileInputs.cache
+/root/Design_Patterns/Bubble/bin/Debug/net8.0/Bubble
+/root/Design_Patterns/Bubble/bin/Debug/net8.0/Bubble.deps.json
+/root/Design_Patterns/Bubble/bin/Debug/net8.0/Bubble.runtimeconfig.json
+/root/Design_Patterns/Bubble/bin/Debug/net8.0/Bubble.dll
+/root/Design_Patterns/Bubble/bin/Debug/net8.0/Bubble.pdb
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.dll
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/refint/Bubble.dll
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.pdb
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/Bubble.genruntimeconfig.cache
+/root/Design_Patterns/Bubble/obj/Debug/net8.0/ref/Bubble.dll

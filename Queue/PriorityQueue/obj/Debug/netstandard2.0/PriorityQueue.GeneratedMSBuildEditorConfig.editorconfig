@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PriorityQueue
+build_property.ProjectDir = /root/Design_Patterns/Queue/PriorityQueue/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
